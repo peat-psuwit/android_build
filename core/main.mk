@@ -654,7 +654,10 @@ subdirs += \
 # Specific projects for Halium
 subdirs += \
 	halium/hybris-boot \
-	halium/droidmedia \
+	halium/libhybris \
+	external/droidmedia \
+	halium/audioflingerglue \
+	halium/platform-api \
 	halium/halium-boot
 
 FULL_BUILD := true
