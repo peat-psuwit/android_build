@@ -70,7 +70,7 @@ PRODUCT_PACKAGES += \
     healthd \
     logd
 
-# for Ubuntu Touch (hybris, platform-api, utils, etc)
+# for Halium (hybris, platform-api, utils, etc)
 PRODUCT_PACKAGES += \
     apns-conf.xml \
     libcamera_compat_layer \
