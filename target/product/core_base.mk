@@ -80,7 +80,9 @@ PRODUCT_PACKAGES += \
     libsf_compat_layer \
     libui_compat_layer \
     libubuntu_application_api \
-    upstart-property-watcher
+    upstart-property-watcher \
+    libdroidmedia \
+    miniafservice
 
 # for testing
 PRODUCT_PACKAGES += \
