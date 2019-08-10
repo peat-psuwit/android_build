@@ -655,7 +655,7 @@ subdirs += \
 subdirs += \
 	halium/hybris-boot \
 	halium/libhybris \
-	external/droidmedia \
+	halium/droidmedia \
 	halium/audioflingerglue \
 	halium/platform-api \
 	halium/halium-boot
